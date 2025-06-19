@@ -47,7 +47,7 @@ This project presents a data-driven analysis of telecom customer churn using **P
 
 ## 📈 Dashboard Preview
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](customer_churn_dashboard_screenshot.png)
 
 ---
 
