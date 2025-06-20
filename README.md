@@ -39,7 +39,7 @@ This project presents a data-driven analysis of telecom customer churn using **P
 |----------------------------------|-----------------------------------------------|
 | `customer_churn_cleaned.xlsx`    | Final cleaned dataset used in Power BI        |
 | `churn_data_cleaning_and_eda.ipynb` | Jupyter Notebook: Cleaning + EDA          |
-| `customer_churn_dashboard.pbix`  | Power BI dashboard (main project file)        |
+| `Customer_churn_analysis.pbix`  | Power BI dashboard (main project file)        |
 | `dashboard_screenshot.png`       | Final dashboard preview image                 |
 | `README.md`                      | This documentation file                       |
 
